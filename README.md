@@ -24,11 +24,11 @@ __UBUNTU PREREQUISITE INSTRUCTIONS__
   
   Newer versions of Ubuntu use:
 
-    sudo apt-get install python-ecdsa php5-cli php5-gd
+    sudo apt-get install python-ecdsa php5-cli php5-gd scrub
 
   Older versions will need to do the following:
   
-    sudo apt-get install python-pip php5-cli php5-gd
+    sudo apt-get install python-pip php5-cli php5-gd scrub
     sudo pip install ecdsa
 
 ===
@@ -58,7 +58,7 @@ __QUICK START EXAMPLE__
   3. Type the following:
 
 ```
-sudo apt-get install python-ecdsa php5-cli php5-gd unzip
+sudo apt-get install python-ecdsa php5-cli php5-gd scrub unzip
 wget https://github.com/jondale/serpcoin/archive/master.zip -O serpcoin.zip
 unzip serpcoin.zip
 cd serpcoin-master
