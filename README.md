@@ -58,11 +58,11 @@ __QUICK START EXAMPLE__
   3. Type the following:
 
 ```
-    sudo apt-get install python-ecdsa php5-cli php5-gd unzip
-    wget https://github.com/jondale/serpcoin/archive/master.zip -O serpcoin.zip
-    unzip serpcoin.zip
-    cd serpcoin-master
-    ./run.sh
+sudo apt-get install python-ecdsa php5-cli php5-gd unzip
+wget https://github.com/jondale/serpcoin/archive/master.zip -O serpcoin.zip
+unzip serpcoin.zip
+cd serpcoin-master
+./run.sh
 ````
   4. The script asks how many labels to make.  Answer 25.
   5. Let the script finish.
