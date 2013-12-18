@@ -20,13 +20,11 @@ The serpcoin scripts require the following:
 
 __UBUNTU INSTRUCTIONS__
   
-  sudo apt-get install php5-cli php5-gd
-  
   Newer versions of Ubuntu use:
 
-    sudo apt-get install python-ecdsa
+    sudo apt-get install python-ecdsa php5-cli php5-gd
 
   Older versions will need to do the following:
   
-    sudo apt-get install python-pip
+    sudo apt-get install python-pip php5-cli php5-gd
     sudo pip install ecdsa
