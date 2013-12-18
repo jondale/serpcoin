@@ -3,20 +3,20 @@ serpcoin
 physical bitcoin storage tools.
 
 
-*INCLUDES*
+__INCLUDES__
 
 Included in this release is a copy of PHP QR Code software which is licensed under the LGPL 3
 You can view this project directly at http://phpqrcode.sourceforge.net/
 
 
-*REQUIREMENTS*
+__REQUIREMENTS__
 
 The serpcoin scripts require the following:
   
   bash, python, python-ecdsa, php-cli, and php-gd
 
 
-*UBUNTU INSTRUCTIONS*
+__UBUNTU INSTRUCTIONS__
   
   sudo apt-get install php5-cli php5-gd
   
