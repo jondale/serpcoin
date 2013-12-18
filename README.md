@@ -56,6 +56,7 @@ __QUICK START EXAMPLE__
   1. Boot up the VM
   2. Login
   3. Type the following:
+
     sudo apt-get install python-ecdsa php5-cli php5-gd unzip
     wget https://github.com/jondale/serpcoin/archive/master.zip -O serpcoin.zip
     unzip serpcoin.zip
