@@ -8,6 +8,7 @@ __INCLUDES__
 Included in this release is a copy of PHP QR Code software which is licensed under the LGPL 3
 You can view this project directly at http://phpqrcode.sourceforge.net/
 
+===
 
 __REQUIREMENTS__
 
@@ -15,6 +16,7 @@ The serpcoin scripts require the following:
   
   bash, python, python-ecdsa, php-cli, and php-gd
 
+===
 
 __UBUNTU INSTRUCTIONS__
   
