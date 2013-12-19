@@ -68,7 +68,7 @@ cd serpcoin-master
   5. Let the script finish.
   6. Print cache/page_front1.png 
   7. Take the printed out page, flip it over, feed it into the manual tray of your printer.
-  8. Print cache/page_front2.png
+  8. Print cache/page_back1.png
   9. Cut and fold each label.
 
 ===
