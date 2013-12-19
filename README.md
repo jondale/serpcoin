@@ -78,7 +78,8 @@ __PRINTING TIPS__
 When printing out the pages you need to make sure you can set the DPI to the same
 value set in the configuration file (Default: 600).  Additionally, a lot of programs
 default to scaling the pages so that will need to be turned off.  I open the files
-in GIMP and then when printing I set the options on the Image Options tab.
+in GIMP and then when printing I set the options on the Image Settings tab inside
+the print dialog.
 
 ===
 
